@@ -1,0 +1,11 @@
+name: shiny_fao_app
+title:
+username:
+account: tomjenkins
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4978680
+bundleId: 5436500
+url: https://tomjenkins.shinyapps.io/shiny_fao_app/
+when: 1641388147.99195
+lastSyncTime: 1641388147.99195
