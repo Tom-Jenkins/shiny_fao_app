@@ -4,11 +4,12 @@
 #
 # Description: 
 # Author: Tom Jenkins
-# Organisation: Natural England
 # Email: tom.l.jenkins@outlook.com
 # GitHub: https://github.com/Tom-Jenkins
 #
 # --------------------------- #
+
+# Note: Code may not be reproducible with recent versions of R and packages due to version conflicts
 
 # Load libraries
 library(shiny)
