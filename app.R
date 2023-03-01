@@ -5,7 +5,7 @@
 # Description: 
 # Author: Tom Jenkins
 # Organisation: Natural England
-# Email: Tom.Jenkins@naturalengland.org.uk
+# Email: tom.l.jenkins@outlook.com
 # GitHub: https://github.com/Tom-Jenkins
 #
 # --------------------------- #
